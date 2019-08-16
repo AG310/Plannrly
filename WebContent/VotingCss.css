@@ -1,0 +1,40 @@
+/* CSCI 201 Final Project Plannrly 
+Team Members: Andrew Garcia, Cathleen Yang, Giovana Da Cunha, Maansi Manchanda 
+Emails: andreweg@usc.edu, cathleey@usc.edu, dacunha@usc.edu, maansima@usc.edu
+ */
+
+@charset "ISO-8859-1";
+
+body{
+	font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+#finished{
+	position:abosolute;
+	text-align: center;
+	top:50%;
+  	z-index:1;
+}
+img {
+	position:absolute;
+	margin-left:39%;
+	margin-top: 10%;
+  	width: 300px;
+  	height: 300px;
+  	display: block;
+}
+
+#buttons{
+	
+}
+
+span {
+	color:white;
+	background: black;
+	position:absolute;
+	margin-left:39%;
+	margin-top: 10%;
+  	display: block;
+  	width:300px;
+}
+
+a:hover{color:#EED2EA};
